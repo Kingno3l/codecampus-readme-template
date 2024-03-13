@@ -30,7 +30,7 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="cc_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="cc.jpeg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Code Campus README Template</b></h3>
